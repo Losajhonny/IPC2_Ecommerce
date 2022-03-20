@@ -1,6 +1,6 @@
 # IPC2-Ecommerce
 
-Proyecto realizado en C#
+Proyecto realizado en C# y Asp.Net
 
 ![Ecommerce3](/recursos/pantallas/solicitud%20online.jpg)
 ![Ecommerce4](/recursos/pantallas/login.jpg)
