@@ -1,0 +1,8 @@
+D:\visual studio proyects\ProyectoIpc2_201325583\Negocio\bin\Negocio.dll.config
+D:\visual studio proyects\ProyectoIpc2_201325583\Negocio\bin\Negocio.dll
+D:\visual studio proyects\ProyectoIpc2_201325583\Negocio\bin\Negocio.pdb
+D:\visual studio proyects\ProyectoIpc2_201325583\Negocio\bin\Datos.dll
+D:\visual studio proyects\ProyectoIpc2_201325583\Negocio\bin\Datos.pdb
+D:\visual studio proyects\ProyectoIpc2_201325583\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\visual studio proyects\ProyectoIpc2_201325583\Negocio\obj\Debug\Negocio.dll
+D:\visual studio proyects\ProyectoIpc2_201325583\Negocio\obj\Debug\Negocio.pdb

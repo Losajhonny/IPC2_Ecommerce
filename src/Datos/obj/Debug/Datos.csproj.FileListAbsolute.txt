@@ -1,0 +1,6 @@
+D:\visual studio proyects\ProyectoIpc2_201325583\Datos\bin\Datos.dll.config
+D:\visual studio proyects\ProyectoIpc2_201325583\Datos\bin\Datos.dll
+D:\visual studio proyects\ProyectoIpc2_201325583\Datos\bin\Datos.pdb
+D:\visual studio proyects\ProyectoIpc2_201325583\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\visual studio proyects\ProyectoIpc2_201325583\Datos\obj\Debug\Datos.dll
+D:\visual studio proyects\ProyectoIpc2_201325583\Datos\obj\Debug\Datos.pdb

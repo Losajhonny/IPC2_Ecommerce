@@ -1,0 +1,10 @@
+D:\visual studio proyects\ProyectoIpc2_201325583\ProyectoIpc2_201325583\bin\ProyectoIpc2_201325583.dll.config
+D:\visual studio proyects\ProyectoIpc2_201325583\ProyectoIpc2_201325583\bin\ProyectoIpc2_201325583.dll
+D:\visual studio proyects\ProyectoIpc2_201325583\ProyectoIpc2_201325583\bin\ProyectoIpc2_201325583.pdb
+D:\visual studio proyects\ProyectoIpc2_201325583\ProyectoIpc2_201325583\bin\Datos.dll
+D:\visual studio proyects\ProyectoIpc2_201325583\ProyectoIpc2_201325583\bin\Negocio.dll
+D:\visual studio proyects\ProyectoIpc2_201325583\ProyectoIpc2_201325583\bin\Datos.pdb
+D:\visual studio proyects\ProyectoIpc2_201325583\ProyectoIpc2_201325583\bin\Negocio.pdb
+D:\visual studio proyects\ProyectoIpc2_201325583\ProyectoIpc2_201325583\obj\Debug\ProyectoIpc2_201325583.csprojResolveAssemblyReference.cache
+D:\visual studio proyects\ProyectoIpc2_201325583\ProyectoIpc2_201325583\obj\Debug\ProyectoIpc2_201325583.dll
+D:\visual studio proyects\ProyectoIpc2_201325583\ProyectoIpc2_201325583\obj\Debug\ProyectoIpc2_201325583.pdb
